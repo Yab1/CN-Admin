@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CN-Admin/static/css/main.b96176f7.css",
+    "main.js": "/CN-Admin/static/js/main.280d40e9.js",
+    "static/media/Thumbnail image.jpeg": "/CN-Admin/static/media/Thumbnail image.b9387967f0bcab12390a.jpeg",
+    "static/media/library.svg": "/CN-Admin/static/media/library.355f87a320e0bd5a0450351e30c41f06.svg",
+    "static/media/grocery.svg": "/CN-Admin/static/media/grocery.be74ff0943aff9f67cffbbd121938807.svg",
+    "static/media/park.svg": "/CN-Admin/static/media/park.380421b4296da2a348af9c6d6b99af6d.svg",
+    "static/media/hospital-JP.svg": "/CN-Admin/static/media/hospital-JP.d57fcb595be77107e82818ed61a26a63.svg",
+    "index.html": "/CN-Admin/index.html",
+    "static/media/village.svg": "/CN-Admin/static/media/village.0d2fc9a6adc1950342ffe0e2a1a5b95f.svg",
+    "static/media/toilet.svg": "/CN-Admin/static/media/toilet.46f1971ab2a8d46896fc41140a3f85cc.svg",
+    "static/media/lodging.svg": "/CN-Admin/static/media/lodging.4576056c629f5623e739c8fc46b52ffd.svg",
+    "static/media/post.svg": "/CN-Admin/static/media/post.2160412dcd8b99cd32c3a635a5478ec2.svg",
+    "static/media/cafe.svg": "/CN-Admin/static/media/cafe.135d94dd3e2575bb53945b790a926d54.svg",
+    "static/media/shoe.svg": "/CN-Admin/static/media/shoe.aacb8cc7c1ede0120a5e1281a03fd52a.svg",
+    "static/media/college.svg": "/CN-Admin/static/media/college.1c959fabfbf1a7ed83ea731a81e5ab54.svg",
+    "static/media/bar.svg": "/CN-Admin/static/media/bar.7c67362d61ca417761cc36becf0aa2c6.svg",
+    "static/media/parking.svg": "/CN-Admin/static/media/parking.6d76a103ed4aa0a6e8883d906903bf45.svg",
+    "static/media/marker.svg": "/CN-Admin/static/media/marker.bac0708a8c797728f31e99379b4a7a8a.svg",
+    "static/media/fitness-centre.svg": "/CN-Admin/static/media/fitness-centre.ddcd9f889e4b984f9db1d1c46cf388c0.svg",
+    "main.b96176f7.css.map": "/CN-Admin/static/css/main.b96176f7.css.map",
+    "main.280d40e9.js.map": "/CN-Admin/static/js/main.280d40e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96176f7.css",
+    "static/js/main.280d40e9.js"
+  ]
+}
