@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CN-Admin/static/css/main.b96176f7.css",
-    "main.js": "/CN-Admin/static/js/main.66f925cd.js",
+    "main.js": "/CN-Admin/static/js/main.849779db.js",
     "static/media/Thumbnail image.jpeg": "/CN-Admin/static/media/Thumbnail image.b9387967f0bcab12390a.jpeg",
     "static/media/library.svg": "/CN-Admin/static/media/library.355f87a320e0bd5a0450351e30c41f06.svg",
     "static/media/grocery.svg": "/CN-Admin/static/media/grocery.be74ff0943aff9f67cffbbd121938807.svg",
@@ -20,10 +20,10 @@
     "static/media/marker.svg": "/CN-Admin/static/media/marker.bac0708a8c797728f31e99379b4a7a8a.svg",
     "static/media/fitness-centre.svg": "/CN-Admin/static/media/fitness-centre.ddcd9f889e4b984f9db1d1c46cf388c0.svg",
     "main.b96176f7.css.map": "/CN-Admin/static/css/main.b96176f7.css.map",
-    "main.66f925cd.js.map": "/CN-Admin/static/js/main.66f925cd.js.map"
+    "main.849779db.js.map": "/CN-Admin/static/js/main.849779db.js.map"
   },
   "entrypoints": [
     "static/css/main.b96176f7.css",
-    "static/js/main.66f925cd.js"
+    "static/js/main.849779db.js"
   ]
 }
